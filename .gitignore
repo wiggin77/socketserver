@@ -1,0 +1,54 @@
+logs
+.DS_Store
+
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_obj
+_test
+testfiles
+.vscode
+
+# Architecture specific extensions/prefixes
+[568vq].out
+
+*.cgo1.go
+*.cgo2.c
+_cgo_defun.c
+_cgo_gotypes.go
+_cgo_export.*
+
+_testmain.go
+
+*.exe
+*.test
+*.prof
+
+# Log files
+*.log
+*.log.jsonl
+*.log.gz
+
+.tmp
+
+# Vim temporary files
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+# Goland project files
+*.iml
+.idea
+
+debug
+__debug_bin
+go.*.orig
+
+socketserver
+
