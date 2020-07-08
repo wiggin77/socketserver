@@ -16,7 +16,6 @@ go build
 ❯ ./socketserver
 
 Usage:
-	socketserver <port number>
-	- <port number> is the listening port
+  socketserver <port number>
+  - <port number> is the listening port
 ```
-
